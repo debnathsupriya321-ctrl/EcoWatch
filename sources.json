@@ -1,0 +1,18 @@
+[
+  {
+    "name": "U.S. Geological Survey News",
+    "url": "https://feeds.feedburner.com/usgsnewsroom"
+  },
+  {
+    "name": "NOAA News",
+    "url": "https://www.noaa.gov/news/rss.xml"
+  },
+  {
+    "name": "ScienceDaily — Earth & Climate",
+    "url": "https://www.sciencedaily.com/rss/earth_climate.xml"
+  },
+  {
+    "name": "Nature — Environmental Sciences",
+    "url": "https://www.nature.com/subjects/environmental-sciences.rss"
+  }
+]
